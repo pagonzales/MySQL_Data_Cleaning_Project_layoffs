@@ -38,7 +38,7 @@ To clean a raw data file using MySQL and make the data ready for further explora
 
 ## Final Conclusion
 In the period of March 2020 to March 2023, 2022 may seem to be the year with the most laid off employees but as we can see from 2023, it gathered almost 78% laid off employees compared to 2022 in just 3 months.
-Also, this increasing number may be due to the covid pandemic as the year coverage in the raw data provided was exactly in the covid pandemic. It might show the aftermath effect of the pandemic to the companies and employees.
+Also, this increasing number maybe due to the covid pandemic as the year coverage in the raw data provided was exactly in the covid pandemic. It might show the aftermath effect of the pandemic to the companies and employees.
 
 
 
